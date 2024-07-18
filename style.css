@@ -1,0 +1,73 @@
+body{
+    background-color: rgba(247,231,211,255);
+    font-family: "RhodiumLibre";
+}
+.header {
+    width: auto;
+    height: 60px;
+    background-color: rgb(176,148,100);
+    position: relative;
+}
+.wp{
+    font-family: "Paytone One";
+    font-weight: 200;
+    color: white;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.wellness{
+    color: rgb(255,234,154)
+}
+.menu{
+    color: white;
+}
+.homebg{
+    position: absolute;
+    top: 3.1%;
+    right: 49.4%;
+    background-color: rgb(255,233,153);
+    width: 70px;
+    height: 60px;
+}
+.home{
+    position: absolute;
+    top: 2.5%;
+    right: 50%;
+    font-family: Abel;
+    color: black;
+    font-weight: 200px;
+}
+.about{
+    position: absolute;
+    top: 2.5%;
+    right: 43%;
+    font-family: Abel;
+    font-weight: 200px;
+}
+.team{
+    position: absolute;
+    top: 2.5%;
+    right: 34%;
+    font-family: Abel;
+    font-weight: 200px;
+}
+.blog{
+    position: absolute;
+    top: 2.5%;
+    right: 28%;
+    font-family: Abel;
+    font-weight: 200px;
+}
+.contact{
+    position: absolute;
+    top: 2.5%;
+    right: 17%;
+    font-family: Abel;
+    font-weight: 200px;
+}
+.betterhealth{
+    position: relative;
+    height: 450px;
+    width: 600px;
+    left: 25%;
+}
