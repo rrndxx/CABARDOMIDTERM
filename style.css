@@ -76,9 +76,10 @@ body{
     margin-right: auto;
 }
 .bcontainer{
-    height: 790px;
+    height: 830px;
     width: auto;
     background-color: rgb(239,210,181);
+    opacity: 60%;
 }
 .circle1{
     height: 800px;
@@ -88,6 +89,7 @@ body{
     position: absolute;
     top: 24%;
     left: 63%;
+    opacity: 50%;
 }
 .circle2{
     height: 550px;
@@ -97,26 +99,27 @@ body{
     position: absolute;
     bottom: 60%;
     left: 75%;
+    opacity: 50%;
 }
 .edu{
     height: 200px;
     width: 220px;
     position: absolute;
-    top: 59%;
+    top: 62%;
     left: 3%;
 }
 .sem{
     height: 200px;
     width: 220px;
     position: absolute;
-    top: 89%;
+    top: 95%;
     left: 3%;
 }
 .wee{
     height: 200px;
     width: 220px;
     position: absolute;
-    top: 119%;
+    top: 126%;
     left: 3%;
 }
 .description{
@@ -142,18 +145,104 @@ body{
     margin: 0%;
 }
 .trendbg2{
-    height: 715px;
+    height: 770px;
     width: 350px;
     position: absolute;
     background-color: rgb(252,240,212);
-    top: 61%;
+    top: 59%;
     right: 4%;
 }
 .trend{
-    display: flex;
+    position: absolute;
     font-family: "Righteous";
     font-weight: 100;
     color: white;
-    text-align: center;
-    padding-bottom: 5%;
+    top: 56%;
+    right: 14.8%;
+}
+.wellgood{
+    height: 160px;
+    width: 180px;
+    position: absolute;
+    top: 77%;
+    right: 12%;
+}
+.wg{
+    font-weight: 50;
+    position: absolute;
+    top: 68.5%;
+    right: 18.5%;
+}
+.wg1{
+    font-size: small;
+    font-weight: 50;
+    position: absolute;
+    top: 98%;
+    right: 14%;
+}
+.h{
+    font-weight: 50;
+    position: absolute;
+    top: 102.5%;
+    right: 22%;
+}
+.happiful{
+    top: 112%;
+}
+.h1{
+    top: 131%;
+    right: 15.5%;
+}
+.tltc{
+    top: 134%;
+    right: 20%;
+}
+.tltc1{
+    position: absolute;
+    width: 200px;
+    right: 11%;
+    top: 143%;
+}
+.justbreathebg{
+    height: 450px;
+    width: auto;
+    background-color: rgb(252,240,212);
+}
+.jbcircle1{
+    position: absolute;
+    background-color: rgb(176,148,100);
+    height: 350px;
+    width: 350px;
+    margin-top: 5%;
+    margin-left: 8%;
+    border-radius: 50%;
+}
+.jbcircle2{
+    position: absolute;
+    height: 340px;
+    width: 340px;
+    background-color: rgb(252,240,212);
+    margin-left:8.5%;
+    margin-top: 5.5%;
+}
+.jbcircle3{
+    position: absolute;
+    height: 330px;
+    width: 330px;
+    margin-left: 9%;
+    margin-top: 6%;
+}
+.just{
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 19%;
+    color: white;
+    font-size: 50px;
+}
+.breathe{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 11%;
+    color: white;
+    font-size: 60px;
 }
