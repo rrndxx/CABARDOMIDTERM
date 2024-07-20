@@ -1,5 +1,6 @@
 body{
     margin-top: -25px;
+    margin-bottom: -25px;
     margin-right: 0px;
     background-color: rgba(247,231,211,255);
     font-family: "RhodiumLibre";
@@ -252,4 +253,16 @@ body{
     margin-left: 53%;
     margin-top: 5%;
     font-size: 250%;
+}
+.rights{
+    width: auto;
+    height: 55px;
+    background-color: rgb(176,148,100);
+}
+.rreserve{
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 40%
 }
