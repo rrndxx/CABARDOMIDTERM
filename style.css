@@ -204,7 +204,7 @@ body{
     top: 143%;
 }
 .justbreathebg{
-    height: 450px;
+    height: 420px;
     width: auto;
     background-color: rgb(252,240,212);
 }
@@ -245,4 +245,11 @@ body{
     margin-left: 11%;
     color: white;
     font-size: 60px;
+}
+.investment{
+    color: rgb(141,52,9);
+    position: absolute;
+    margin-left: 53%;
+    margin-top: 5%;
+    font-size: 250%;
 }
