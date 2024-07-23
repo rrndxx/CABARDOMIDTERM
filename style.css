@@ -266,3 +266,9 @@ body{
     margin-top: 2%;
     margin-left: 40%
 }
+.search{
+    position: absolute;
+    height: 35px;
+    top: 1%;
+    right: 2%;
+}
